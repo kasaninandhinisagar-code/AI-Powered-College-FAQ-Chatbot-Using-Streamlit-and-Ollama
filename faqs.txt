@@ -1,0 +1,9 @@
+College Timings:9Am to 4Pm
+Library:Library Provides Books and study Materials.
+Attendance:Students Must Maintain the Required Attendance
+Exams:Examination follow the academic schedule
+Principal: The college principal manages the academic and administrative activities.
+Departments,Branches: The college has different departments for various engineering branches.
+Canteen: The college canteen provides food and refreshments for students.
+Transport: College transportation facilities are available for students.
+Hostel: Hostel facilities are available for eligible students.

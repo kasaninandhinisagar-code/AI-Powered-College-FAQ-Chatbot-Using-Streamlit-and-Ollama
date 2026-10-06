@@ -4,7 +4,7 @@ from pypdf import PdfReader
 import chromadb
 from sentence_transformers import SentenceTransformer
 client = chromadb.PersistentClient(path="chroma_db")
-collection = client.get_collection("college_faq")
+collection = client.get_or_create_collection("college_faq")
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 st.set_page_config(page_title="College FAQ Chatbot", page_icon="🎓")
